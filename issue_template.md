@@ -1,5 +1,5 @@
 ## TÍTULO EN REPORTE DE ERRORES
-- <Primer problema>
-- <Segundo problema>
-- <sección de código>
+- <Cuál es el problema>
+- <Sistema operativo o explorador de internet.>
+- <Sección de código - opcional>
 - <Versión>
