@@ -7,5 +7,7 @@ Qué ha cambiado?
 Cómo se puede probar los cámbios?.
 
 -[] Chrome.
+
 -[] Mozilla.
+
 -[] IE.
